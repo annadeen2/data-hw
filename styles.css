@@ -1,0 +1,34 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.background-text-box {
+  background-color: #f5A607;
+}
+
+figcaption { 
+  color: #9CA1A4; 
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px
+}
+
+li {
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+h6 {
+  font-family: 'Roboto', sans-serif;
+  font-color:
+}
